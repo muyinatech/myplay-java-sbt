@@ -1,4 +1,4 @@
-name := "my-first-app"
+name := "myplay-java-sbt"
 
 version := "1.0"
 
